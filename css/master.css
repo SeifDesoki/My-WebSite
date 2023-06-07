@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #35314d;
+    /* background-image: url("/imgs/background.jpg"); */
+    color: #ffffb9;
+}
+
+h1 {
+    color: #a2d6e9;
+}
+
+h2 {
+    color: #fff2ff;
+}
+
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    margin-block-start: 10px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ff64a6;
+}
